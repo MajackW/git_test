@@ -1,0 +1,2 @@
+first file that i made in a linux subsystem for windows(wsl) then
+opened and edited in vscode
